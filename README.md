@@ -61,12 +61,12 @@
 <br>
 
 ```java
-  <script>
-  function dosomething() {
-    var text = document.getElementById("test").innerHTML;
-    document.getElementById("test").innerHTML = text === "Hi There" ? "Bye There" : "Hi There";
-  }
-  </script>
+    <script>
+    function dosomething() {
+      var text = document.getElementById("test").innerHTML;
+      document.getElementById("test").innerHTML = text === "Asuna" ? "Kirito" : "Asuna";
+    }
+    </script>
 ```
 <br>
 
